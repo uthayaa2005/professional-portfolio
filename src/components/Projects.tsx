@@ -60,8 +60,8 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
       technologies: ['React', 'OpenWeather API', 'Chart.js'],
       category: 'frontend',
-      github: 'https://github.com',
-      demo: 'https://example.com',
+      github: 'https://github.com/uthayaa2005/weather-application',
+      demo: 'https://weather-of-india-five.vercel.app/',
     },
     {
       id: 6,
