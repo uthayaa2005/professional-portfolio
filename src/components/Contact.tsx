@@ -87,7 +87,7 @@ const Contact = () => {
             <div className="mt-8">
               <h4 className="font-medium text-gray-900 mb-4">Follow Me</h4>
               <div className="flex space-x-4">
-                {['github', 'linkedin', 'twitter', 'instagram'].map((social) => (
+                {['github', 'linkedin'].map((social) => (
                   <a 
                     key={social}
                     href={`https://${social}.com`} 
