@@ -54,7 +54,7 @@ const About = () => {
             transition={{ duration: 0.5, delay: 0.4 }}
             className="md:w-1/2"
           >
-            <h3 className="text-2xl font-bold mb-4">Who am I?</h3>
+            <h3 className="text-2xl font-bold mb-4">Who I Am?</h3>
             <p className="text-gray-700 mb-4">
               I'm a passionate Full Stack Developer with over 3 years of experience in building web applications.
               I specialize in JavaScript, React, Node.js, and modern web technologies.
