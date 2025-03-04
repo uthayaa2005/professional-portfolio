@@ -14,7 +14,7 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'CRYPTO TACKER',
+      title: 'Crypto Hunter',
       description: 'Developed a comprehensive web application for real-time cryptocurrency analysis.',
       image: 'https://images.unsplash.com/photo-1643488072086-9d7318c0a04b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y3J5cHRvJTIwdHJhY2tlcnxlbnwwfHwwfHx8MA%3D%3D',
       technologies: ['React', 'Node.js', 'Material-UI'],
@@ -29,8 +29,8 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1555421689-491a97ff2040?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
       technologies: ['React', 'Firebase', 'Tailwind CSS'],
       category: 'frontend',
-      github: 'https://github.com',
-      demo: 'https://example.com',
+      github: 'https://github.com/uthayaa2005/task-manager',
+      demo: 'https://task-manager-phi-drab.vercel.app/',
     },
     {
       id: 3,
